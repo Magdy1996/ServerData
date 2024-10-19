@@ -1,0 +1,107 @@
+{
+    "data": {
+      "channels": [
+        {
+          "id": 0,
+          "name": "Recommend"
+        },
+        {
+          "id": 1,
+          "name": "html"
+        },
+        {
+          "id": 2,
+          "name": "news"
+        },
+        {
+          "id": 4,
+          "name": "c++"
+        },
+        {
+          "id": 6,
+          "name": "css"
+        },
+        {
+          "id": 7,
+          "name": "DB"
+        },
+        {
+          "id": 8,
+          "name": "Blockchain"
+        },
+        {
+          "id": 9,
+          "name": "go"
+        },
+        {
+          "id": 10,
+          "name": "Products"
+        },
+        {
+          "id": 11,
+          "name": "Back end"
+        },
+        {
+          "id": 12,
+          "name": "linux"
+        },
+        {
+          "id": 13,
+          "name": "AI"
+        },
+        {
+          "id": 14,
+          "name": "php"
+        },
+        {
+          "id": 15,
+          "name": "javascript"
+        },
+        {
+          "id": 16,
+          "name": "Architecture"
+        },
+        {
+          "id": 17,
+          "name": "Front end"
+        },
+        {
+          "id": 18,
+          "name": "python"
+        },
+        {
+          "id": 19,
+          "name": "java"
+        },
+        {
+          "id": 20,
+          "name": "Algorithms"
+        },
+        {
+          "id": 21,
+          "name": "Interview"
+        },
+        {
+          "id": 22,
+          "name": "Technology"
+        },
+        {
+          "id": 23,
+          "name": "js"
+        },
+        {
+          "id": 24,
+          "name": "Design"
+        },
+        {
+          "id": 25,
+          "name": "Digital products"
+        },
+        {
+          "id": 26,
+          "name": "QA"
+        }
+      ]
+    },
+    "message": "OK"
+  }
